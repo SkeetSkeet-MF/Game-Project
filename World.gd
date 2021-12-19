@@ -34,4 +34,5 @@ func load_chunk(arr):
 	
 	call_deferred("load_done", chunk, thread)
 	
-func load_done():
+func load_done(chunk, thread):
+	
