@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Rocks_1.glb-5a1e7cc5473a7830b9ebe297e83b697f.scn"
+path="res://.import/Tree_2.glb-5a0170a51d5eec118d04c7b208ac9d8d.scn"
 
 [deps]
 
-source_file="res://Assets/Rocks_1.glb"
-dest_files=[ "res://.import/Rocks_1.glb-5a1e7cc5473a7830b9ebe297e83b697f.scn" ]
+source_file="res://Assets/Tree_2.glb"
+dest_files=[ "res://.import/Tree_2.glb-5a0170a51d5eec118d04c7b208ac9d8d.scn" ]
 
 [params]
 
