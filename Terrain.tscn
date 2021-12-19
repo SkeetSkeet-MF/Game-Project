@@ -15,6 +15,6 @@ shape = SubResource( 1 )
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0 )
 
 [node name="Sprite3D" type="Sprite3D" parent="."]
-transform = Transform( 20, 0, 0, 0, -3.25841e-06, 0.01, 0, -20, -1.62921e-09, 0, 0, 0 )
+transform = Transform( 63, 0, 0, 0, -2.75382e-06, 0.01, 0, -63, -4.37114e-10, 0, 0, 0 )
 cast_shadow = 0
 texture = ExtResource( 2 )
