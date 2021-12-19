@@ -1,6 +1,6 @@
 extends KinematicBody
 
-const GRAVITY = -24.8
+const GRAVITY = -2.8
 var vel = Vector3()
 const MAX_SPEED = 20
 const JUMP_SPEED = 18
@@ -71,7 +71,7 @@ func process_movement(delta):
 	dir.y = 0
 	dir = dir.normalized()
 
-	vel.y += delta * GRAVITY #this might have to be disabled
+	vel.y += delta * GRAVITY
 
 	var hvel = vel
 	hvel.y = 0
